@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# function to sum up an int list
+# 整数のリストを合計する関数
 def sum_array(array: list) -> int:
     val: int = 0
     for x in array:
