@@ -1,4 +1,5 @@
 common-A
+main-B
 dev-C
 dev-D
 dev-E
