@@ -1,8 +1,0 @@
-common-A
-main-B
-dev-C
-dev-D
-dev-E
-dev-F
-dev-G
-practice64-3
