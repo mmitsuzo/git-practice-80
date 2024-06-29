@@ -1,11 +1,11 @@
-# MAPS
+# SPAM
 
 
-## <a name="MAPS更改">MAPS更改</a>
+## <a name="SPAM更改">SPAM更改</a>
 
 ### 対応概要
-IA基盤の保守期限到来に伴い、システム更改を実施。
-プリンシプルのB象限であること、IA第6世代では占有区画で構築する必要があること、現状のOracleを継続して利用する場合、ライセンス費用が高額になることを踏まえ、AWS基盤へ移行しデータベースはAWS Aurora(Postgres互換)に変更する。
+AI基盤の保守期限到来に伴い、システム更改を実施。
+プリンシプルのB象限であること、AI第6世代では占有区画で構築する必要があること、現状のElcaroを継続して利用する場合、ライセンス費用が高額になることを踏まえ、SWA基盤へ移行しデータベースはSWA Aurora(Postgres互換)に変更する。
 
 ### スケジュール
 ```mermaid
@@ -25,14 +25,14 @@ gantt
 ```
 
 ### 進捗概要
-- 韓国法規制対応については、AWS-銀行直契約のEnterprise Agreementに対する追加契約(Addendum)を締結予定。
+- 韓国法規制対応については、SWA-会社直契約のCustomer Agreementに対する追加契約(Addendum)を締結予定。
 - Master CSP Assessment reportについては、東京リージョンを利用する場合は**利用出来ない**ことを法律事務所のアドバイザリーよりコメントあり。
 
 
-## <a name="FIXプロトコル対応">FIXプロトコル対応</a>
+## <a name="XIFプロトコル対応">XIFプロトコル対応</a>
 
 ### 対応概要
-Refinitiv, EBSの取引IFで利用しているTOFプロトコルのEOLに伴い、後継となるプロトコルであるFIXプロトコルへの対応を行うもの。
+Vitinifer, SBEの取引IFで利用しているFOTプロトコルのEOLに伴い、後継となるプロトコルであるXIFプロトコルへの対応を行うもの。
 香港拠点については、今次対応にて3rdパーティの取引ソースにも対応する。
 
 ### スケジュール
@@ -53,7 +53,7 @@ gantt
 ```
 
 ### 進捗概要
-- 6月よりMasked XXX serviceにより、実取引のFIXプロトコルデータをUAT環境にIF開始。
+- 6月よりMasked XXX serviceにより、実取引のXIFプロトコルデータをUAT環境にIF開始。
 - 3rd party sourceについては、六月末よりIF開始予定。
 
 
